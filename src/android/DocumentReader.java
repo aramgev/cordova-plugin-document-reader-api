@@ -3,7 +3,7 @@ package cordova.plugin.documentreader;
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.content.Context;
-import android.support.v4.app.ActivityCompat;
+import androidx.core.app.ActivityCompat;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
