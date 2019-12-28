@@ -1,0 +1,58 @@
+{
+  "_from": "cordova-plugin-document-reader-api-beta",
+  "_id": "cordova-plugin-document-reader-api-beta@5.0.27",
+  "_inBundle": false,
+  "_integrity": "sha512-TkyQE4p4WehQvvhCk5HmL+D2Y02s6JzHgTp2e9ZLzb0EMpIY22fwTl401WZiljGVF2Fb1U6BUoIxbJDDG24RJg==",
+  "_location": "/cordova-plugin-document-reader-api-beta",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-document-reader-api-beta",
+    "name": "cordova-plugin-document-reader-api-beta",
+    "escapedName": "cordova-plugin-document-reader-api-beta",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-document-reader-api-beta/-/cordova-plugin-document-reader-api-beta-5.0.27.tgz",
+  "_shasum": "ec0c93e46199c290e8f17e78bcfdfabc121c5df6",
+  "_spec": "cordova-plugin-document-reader-api-beta",
+  "_where": "D:\\plugins",
+  "author": {
+    "name": "RegulaForensics"
+  },
+  "bugs": {
+    "url": "https://github.com/regulaforensics/DocumentReader-Cordova-Plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-document-reader-api-beta",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin for reading and validation of identification documents (API framework)",
+  "homepage": "https://mobile.regulaforensics.com",
+  "keywords": [
+    "cordova",
+    "documentreader",
+    "reader",
+    "scanner",
+    "regula"
+  ],
+  "license": "commercial",
+  "max_body_size": "1000mb",
+  "name": "cordova-plugin-document-reader-api-beta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regulaforensics/DocumentReader-Cordova-Plugin.git"
+  },
+  "version": "5.0.27"
+}

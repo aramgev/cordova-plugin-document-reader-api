@@ -1,0 +1,18 @@
+repositories {
+		jcenter()
+		maven{
+			url "https://maven.google.com"
+		}
+		maven{
+			url "http://maven.regulaforensics.com/RegulaDocumentReader"
+		}
+		maven {
+			url "http://maven.regulaforensics.com/RegulaDocumentReader/Beta"
+		}
+	}
+
+dependencies {
+	compile ('com.regula.documentreader:api:version_place_holder'){
+        transitive = true
+    }
+}
